@@ -1,0 +1,6 @@
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Data Types\bin\Debug\Data Types.dll
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Data Types\bin\Debug\Data Types.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Data Types\obj\Debug\Data Types.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Data Types\obj\Debug\Data Types.dll
+C:\Users\ramya\Desktop\c# programming\Csharp programming\Data Types\obj\Debug\Data Types.pdb

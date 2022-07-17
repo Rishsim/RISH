@@ -1,0 +1,7 @@
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\bin\Debug\HSTB.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\bin\Debug\HSTB.pdb
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\obj\Debug\HSTB.csproj.AssemblyReference.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\obj\Debug\HSTB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\obj\Debug\HSTB.csproj.CoreCompileInputs.cache
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\obj\Debug\HSTB.exe
+C:\Users\ramya\Desktop\c# programming\Csharp programming\HSTB\obj\Debug\HSTB.pdb
